@@ -4085,3 +4085,7 @@ em, i  {
      border-color: #000000;
      margin-bottom: 1em;
 }
+
+.page-writing #content3 .spotlight .image img {
+	border-radius: 30%;
+}
